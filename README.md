@@ -1,0 +1,3 @@
+# 4-Contact-Game
+lets play and enjoy....
+"4-Contact Game" is an exciting and interactive Java-based game that challenges players to connect four tokens of their color in a row, either horizontally, vertically, or diagonally, on a grid-like board. This classic two-player game is an excellent exercise for enhancing strategic thinking and fostering friendly competition.
